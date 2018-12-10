@@ -1,0 +1,1 @@
+csc /target:winexe /win32icon:favIcon.ico /out:keyBack.exe keyBack.cs /reference:Microsoft.VisualBasic.dll
